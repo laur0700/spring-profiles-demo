@@ -1,0 +1,5 @@
+spring:
+  message: PROD
+
+server:
+  port: 8080
